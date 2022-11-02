@@ -7,7 +7,7 @@ function setup() {
 }
 
 function draw() {
-  background(100);
+  background(200);
   triangle (50, 100, 150, 10, 10, 10)
   frame (200)
 }
